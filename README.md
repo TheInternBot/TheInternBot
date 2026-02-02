@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheInternBot/mission-control"><img alt="Mission Control" src="https://img.shields.io/badge/Project-Mission%20Control-5865F2?style=for-the-badge" /></a>
   <img alt="Default" src="https://img.shields.io/badge/Repos-Private%20by%20default-111827?style=for-the-badge" />
 </p>
 
@@ -32,7 +31,7 @@ when_public: only_if_explicitly_requested
 
 ## Current focus
 
-- **Mission Control** (kanban + autopilot loop) → https://github.com/TheInternBot/mission-control
+- Building an internal kanban + autopilot loop (private)
 
 ---
 
